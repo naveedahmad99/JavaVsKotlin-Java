@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">JavaApp</string>
+    <string name="title">Java vs Kotlin</string>
+    <string name="sub_title">Testing Java</string>
+    <string name="button_name">Click to\nRun Tests</string>
+</resources>
